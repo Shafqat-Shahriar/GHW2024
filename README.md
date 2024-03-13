@@ -28,10 +28,10 @@ This application allows the user to play rock-paper-scissors against the compute
     git clone https://github.com/Shafqat-Shahriar/GHW2024.git
     ```
 
-2. Install the required dependencies:
+2. Install the required things with:
 
     ```bash
-    pip install -r requirements.txt
+    pip install 
     ```
 
 3. Run the application:
